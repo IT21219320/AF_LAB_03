@@ -41,3 +41,15 @@ myPromise.then((result) => {
 }).catch((error) => {
     console.log(error);
 })
+
+
+const myFunction = async() => {
+    try {
+        const result = await myPromise;
+        console.log(result);
+    } catch (error) {
+        console.log(error);
+    }
+}
+
+myFunction();
