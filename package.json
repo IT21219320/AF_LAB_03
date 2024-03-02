@@ -1,0 +1,22 @@
+{
+  "name": "af_lab_03",
+  "version": "1.0.0",
+  "description": "Introduction to Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21219320/AF_LAB_03.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Sachinthaka Ayeshmantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21219320/AF_LAB_03/issues"
+  },
+  "homepage": "https://github.com/IT21219320/AF_LAB_03#readme"
+}
